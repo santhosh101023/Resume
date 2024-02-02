@@ -1,0 +1,20 @@
+table{background-color: azure;
+    border-style: inset;
+    border-color: blueviolet ;
+    border-width: 4c;
+}
+#foot{
+    background-color:wheat;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    }
+#mobile{
+ position: fixed;
+ bottom: 300px;
+ left: 200px;
+
+}
